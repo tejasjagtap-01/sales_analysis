@@ -1,8 +1,7 @@
-# sales_analysis
-Comprehensive EDA on a retail_sales dataset using PostgreSQL and pgAdmin 4. Features advanced data cleaning, time-series extraction (CASE WHEN shifts), customer demographics, and product profitability analysis to drive data-backed business decisions.
+
 # Retail Sales Analysis & Exploration (SQL)
 
-## ** Project Overview ** ##
+##  Project Overview  ##
 This project involves a comprehensive Exploratory Data Analysis (EDA) and data analysis on a retail sales dataset using PostgreSQL and pgAdmin 4. The objective is to set up the database, perform critical data cleaning to handle missing values, explore core database dimensions, and write advanced SQL queries to extract key business insights.
 
 The analysis covers sales trends, customer demographics, transaction patterns across daily shifts, and product category performance
