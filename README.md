@@ -2,9 +2,12 @@
 # Retail Sales Analysis & Exploration (SQL)
 
 ##  Project Overview  ##
-This project involves a comprehensive Exploratory Data Analysis (EDA) and data analysis on a retail sales dataset using PostgreSQL and pgAdmin 4. The objective is to set up the database, perform critical data cleaning to handle missing values, explore core database dimensions, and write advanced SQL queries to extract key business insights.
+
+This project transforms raw retail data into actionable business intelligence by combining backend database engineering with interactive frontend visualizations. Project involves a comprehensive Exploratory Data Analysis (EDA) and data analysis on a retail sales dataset using PostgreSQL and pgAdmin 4. The objective is to set up the database, perform critical data cleaning to handle missing values, explore core database dimensions, and write advanced SQL queries to extract key business insights.
 
 The analysis covers sales trends, customer demographics, transaction patterns across daily shifts, and product category performance
+
+Using PostgreSQL for data cleaning and advanced querying alongside Power BI for dynamic data modeling and dashboarding, the analysis tracks key performance metrics across sales trends, customer demographics, product categories, and operational shift patterns.
 
 ## 📂 Project Structure
 ### 1. Database Setup
