@@ -246,6 +246,15 @@ Based on the insights derived from the SQL analysis, here are the core recommend
 * **Inventory Focus (Q3 & Q8):** Prioritize inventory management and restocking schedules for the top-performing categories and ensure high-value customers (Top 5) are enrolled in a premium loyalty program to increase retention.
 ```
 
+---
+
+
+## 6. Power BI Report Overview
+<img width="1290" height="732" alt="Screenshot 2026-06-19 124109" src="https://github.com/user-attachments/assets/7bc4c3af-6dd3-4d42-896f-708047ff9207" />
+
+<img width="1291" height="735" alt="Screenshot 2026-06-19 124256" src="https://github.com/user-attachments/assets/150cec32-89c1-4281-982d-f066c7cfed05" />
+
+
 ## 🔮6. Conclusion & Future Work
 This project successfully demonstrates how raw transactional retail logs can be cleaned, structured, and transformed into rich operational intelligence using PostgreSQL. 
 
