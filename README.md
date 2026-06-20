@@ -236,7 +236,7 @@ FROM hourly_sales
 ## 5. Business Recommendations (The "So What?" Section)
 Data analysts don't just write queries; they solve business problems. Add a section explaining what a business should *do* with the information you found.
 
-```markdown
+markdown
 ## 💡 Strategic Business Recommendations
 
 Based on the insights derived from the SQL analysis, here are the core recommendations for the retail store management:
@@ -244,23 +244,23 @@ Based on the insights derived from the SQL analysis, here are the core recommend
 * **Shift Optimization (Q10):** Since sales spike significantly during specific shifts, management should align staffing schedules to ensure peak hours (e.g., Afternoon shifts) are fully staffed, while reducing overhead during slower Morning hours.
 * **Targeted Marketing (Q4 & Q6):** With the average age of 'Beauty' product buyers calculated, marketing campaigns for this category should be precisely targeted toward that specific age demographic via social media channels.
 * **Inventory Focus (Q3 & Q8):** Prioritize inventory management and restocking schedules for the top-performing categories and ensure high-value customers (Top 5) are enrolled in a premium loyalty program to increase retention.
-```
+  
 
 ---
 
 
-## 6. Power BI Report Overview
+##  6. Power BI Report Overview
 <img width="1290" height="732" alt="Screenshot 2026-06-19 124109" src="https://github.com/user-attachments/assets/7bc4c3af-6dd3-4d42-896f-708047ff9207" />
 
 <img width="1291" height="735" alt="Screenshot 2026-06-19 124256" src="https://github.com/user-attachments/assets/150cec32-89c1-4281-982d-f066c7cfed05" />
 
 
-## 🔮6. Conclusion & Future Work
+## 🔮7. Conclusion & Future Work
 This project successfully demonstrates how raw transactional retail logs can be cleaned, structured, and transformed into rich operational intelligence using PostgreSQL. 
 
 **Next Steps:**
-  **Dashboard Integration:** The next phase of this project involves connecting this PostgreSQL database to **Power BI** or **Tableau** to build an interactive sales performance dashboard.
-  **Predictive Analytics:** Utilizing Python to build a regression model forecasting next month's sales trends based on the historical data cleaned here.
+ * **Dashboard Integration:** The next phase of this project involves connecting this PostgreSQL database to **Power BI** or **Tableau** to build an interactive sales performance dashboard.
+ * **Predictive Analytics:** Utilizing Python to build a regression model forecasting next month's sales trends based on the historical data cleaned here.
 
 ## 👨‍💻 Author
 
